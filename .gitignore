@@ -1,0 +1,8 @@
+# dependencias
+node_modules/
+.DS_Store
+*.log
+
+# Parciales de trabajo
+/capturas/
+_*
